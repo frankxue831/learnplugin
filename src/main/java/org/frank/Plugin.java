@@ -1,2 +1,6 @@
-package org.frank;public class Plugin {
+package org.frank;
+
+public interface Plugin {
+    void performAction();
 }
+
